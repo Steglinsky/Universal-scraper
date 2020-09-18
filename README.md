@@ -37,8 +37,6 @@ The program works well on Windows (10 - preferred) and Linux VPN (tested on Debi
 
 ###### 2.1 Windows
 Create a new folder, place the uniscrap.py file in it and the prepared input.csv file
-Then run the uniscrap.py script
-Ready, the program runs and writes e-mail addresses to output.csv file
 
 ###### 2.2 Linux VPS
 Using any FTP client (for example, WinSCP), you must log on to the machine.
