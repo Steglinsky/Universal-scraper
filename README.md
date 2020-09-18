@@ -1,5 +1,5 @@
 ### Objective of the programme
-The program is used to extract **all e-mail addresses** found in the given list of websites.
+The program is used to extract **all e-mail addresses** found in the given list of websites. The program is designed for quick scalability, the launch of the next instance on a virtual machine is only 3 minutes.
 
 ### Requirements:
 - re
