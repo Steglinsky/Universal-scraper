@@ -67,4 +67,7 @@ If the program encounters an unsupported exception to access a particular page, 
 
 2. For a quick resume, you need to find the last entered domain in the output.csv file. Then find it in the input and delete all records until it occurs.
 
-
+#### 5. TODO LIST
+- Output filtering from links 
+- Filtering output from duplicates
+- Input reading improvement (http://)
