@@ -61,7 +61,7 @@ Ready, the program runs and writes e-mail addresses to output.csv file
 
 After starting the program will print out in the console the currently processed pages and possible messages about lack of access to the site (this happens when there is no content or server error is returned).
 
-#####Debugging
+##### Debugging
 If the program encounters an unsupported exception to access a particular page, the action will be terminated. An error message will appear in the console. Then you should:
 1. Add the exception to the code
 
