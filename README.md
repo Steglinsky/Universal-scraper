@@ -57,6 +57,7 @@ Using any SSH (PuTTY/Solar-PuTTY &hearts;) client, log in to the machine and go 
 
 Start the script using the command:
 `python3 uniscrap.py`
+
 Ready, the program runs and writes e-mail addresses to output.csv file
 
 After starting the program will print out in the console the currently processed pages and possible messages about lack of access to the site (this happens when there is no content or server error is returned).
